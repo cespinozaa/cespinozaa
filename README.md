@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Cynthia. I'm currently working on strengthening my programming skills. <br>I want to create a portfolio website soon to be able to efficiently showcase my projects. I'm currently working on a 2D Platformer game with a few classmates. The game will be created in Godot using GodotScript. I'm learning how to develop the game using the top-down development method. A fun fact about me is that I am learning Korean. Another fun fact is that I recently started playing pc games which sparked my interest in eventually developing a game of my own!
+Hi! I'm Cynthia. I'm currently working on strengthening my programming skills. <br>I want to create a portfolio website soon to be able to efficiently showcase my projects. For my senior capstone, I worked on a 2D Platformer game with a few classmates. It was created in Godot using GodotScript. The game was developed using the top-down development method. A fun fact about me is that I like drawing and painting. Another fun fact is that I recently started playing pc games which sparked my interest in eventually developing a game of my own!
 
 
 ## 🌐 Socials:

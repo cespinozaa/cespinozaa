@@ -4,7 +4,7 @@ Recently, I developed a website for a small dessert business using Agile methodo
 In my free time, I enjoy looking at art, as well as drawing and painting. I’ve recently started playing PC games, which has inspired me to pursue game development in the future. I’m also interested in full stack development, AI, and human-computer interaction.
 
 
-## 🌐 Socials:
+## 🌐 Socials: Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cynthia-espinoza-arredondo) 
 
 # 💻 Tech Stack:

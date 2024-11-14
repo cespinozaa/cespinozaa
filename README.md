@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi! I’m Cynthia, a passionate learner focused on expanding my programming skills. I’m currently working on new projects to learn new technologies and build a portfolio website to showcase my work effectively. <br><br>
 Recently, I developed a website for a small dessert business using Agile methodology. For my senior capstone, I collaborated on a 2D platformer game with a few classmates. We built it in Godot with GDScript, following a top-down development approach. You can explore these projects here. <br><br>
-
 In my free time, I enjoy looking at art, as well as drawing and painting. I’ve recently started playing PC games, which has inspired me to pursue game development in the future. I’m also interested in full stack development, AI, and human-computer interaction.
 
 
